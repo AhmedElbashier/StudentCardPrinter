@@ -1,0 +1,14 @@
+D:\#ACMST\Projects\Amaros\Card Printer\CardPrinter\obj\Debug\CardPrinter.csprojAssemblyReference.cache
+D:\#ACMST\Projects\Amaros\Card Printer\CardPrinter\obj\Debug\CardPrinter.CardBack.resources
+D:\#ACMST\Projects\Amaros\Card Printer\CardPrinter\obj\Debug\CardPrinter.CardFront.resources
+D:\#ACMST\Projects\Amaros\Card Printer\CardPrinter\obj\Debug\CardPrinter.Form1.resources
+D:\#ACMST\Projects\Amaros\Card Printer\CardPrinter\obj\Debug\CardPrinter.Properties.Resources.resources
+D:\#ACMST\Projects\Amaros\Card Printer\CardPrinter\obj\Debug\CardPrinter.csproj.GenerateResource.cache
+D:\#ACMST\Projects\Amaros\Card Printer\CardPrinter\obj\Debug\CardPrinter.csproj.CoreCompileInputs.cache
+D:\ACMST\Projects\Amaros\Card Printer\CardPrinter\obj\Debug\CardPrinter.csprojAssemblyReference.cache
+D:\ACMST\Projects\Amaros\Card Printer\CardPrinter\obj\Debug\CardPrinter.CardBack.resources
+D:\ACMST\Projects\Amaros\Card Printer\CardPrinter\obj\Debug\CardPrinter.CardFront.resources
+D:\ACMST\Projects\Amaros\Card Printer\CardPrinter\obj\Debug\CardPrinter.Form1.resources
+D:\ACMST\Projects\Amaros\Card Printer\CardPrinter\obj\Debug\CardPrinter.Properties.Resources.resources
+D:\ACMST\Projects\Amaros\Card Printer\CardPrinter\obj\Debug\CardPrinter.csproj.GenerateResource.cache
+D:\ACMST\Projects\Amaros\Card Printer\CardPrinter\obj\Debug\CardPrinter.csproj.CoreCompileInputs.cache
